@@ -9,7 +9,8 @@ papers:
     selected: y
 
   - title: "DatawiseAgent: A Notebook-Centric LLM Agent Framework for Adaptive and Robust Data Science Automation"
-    authors: "<b>Ziming You</b>, Yumiao Zhang, Dexuan Xu, Yiwei Lou, Yu Huang"
+    authors: "<b>Ziming You</b>, Yumiao Zhang, Dexuan Xu, Yiwei Lou, Yandong Yan, Wei Wang, Huamin Zhang, Yu Huang"
+
     venue: "<b>EMNLP 2025</b> Main Conference"
     paper_pdf: "https://arxiv.org/abs/2503.07044"
     code: "https://github.com/zimingyou01/DatawiseAgent"
