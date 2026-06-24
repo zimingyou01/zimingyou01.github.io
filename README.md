@@ -1,36 +1,25 @@
-# Martin Saveski's Website
+# Ziming You Homepage
 
-## Updates guide
-Change one of the files in `_data`, unless you are changing the look of the website.
+This is a small Jekyll homepage. Most content lives in `_data`.
 
-Test changes with:
-```
+## Update Content
+
+- `_data/main_info.yaml`: profile, links, bio, collaboration note, analytics id
+- `_data/news.yaml`: news items
+- `_data/publications.yaml`: publications
+- `_data/experience.yaml`: research and work experience
+- `_data/service.yaml`: service
+
+## Local Preview
+
+```bash
 jekyll serve
 ```
 
-Push to the ML web directory:
-```
-rm -rf public_html
-mkdir public_html
-```
-```
-./__deploy.sh
-```
+Then open `http://127.0.0.1:4000/`.
 
-More info on the [Media Lab wiki](http://wiki.media.mit.edu/view/Necsys/WebPagePersonal).
+## Build Check
 
-**Stanford links**
-- Use fetch!
-- [Basic WWW for Individual Users](https://uit.stanford.edu/service/web/centralhosting/howto_user)
-- [AFS File Transfer](https://uit.stanford.edu/service/afs/file-transfer/macintosh)
-
-
-## External Libraries
-- Framework: [Jekyll](http://jekyllrb.com/)
-- CSS
-  - [Skeleton](getskeleton.com)
-  - Tabs: [Skeleton Tabs](https://github.com/nathancahill/skeleton-tabs)
-  - Experience: [Timeline](https://codepen.io/NilsWe/pen/FemfK)
-  - Icons: [Font Awesome](http://fontawesome.io/)
-- JS
-  - [Jquery (3.1.1)](https://jquery.com/)
+```bash
+jekyll build
+```

@@ -1,5 +1,3 @@
-
-service:
-    - name: "<br/> ICML 2025 MAS workshop"
-      title: "Reviewer"
-      category: "current"
+items:
+  - title: "Reviewer"
+    name: "ICML 2025 MAS Workshop"

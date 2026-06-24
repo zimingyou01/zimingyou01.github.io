@@ -1,9 +1,24 @@
-name: "Ziming You (游孜明)"
-title: "Researcher (Gap Year, applying for Ph.D. positions)"
-email: "zimingyou [AT] alumni.pku.edu.cn"
+name: "Ziming You"
+name_zh: "游孜明"
+email: "ziming.you [AT] ntu.edu.sg"
+email_href: "ziming.you@ntu.edu.sg"
 profile_pic: "/assets/pics/image.png"
-twitter: "https://twitter.com/ZimingYou01"
-# linkedin: "https://www.linkedin.com/in/tao-yu-b9b551a5/"
-github: "https://github.com/zimingyou01"
-google_scholar: "https://scholar.google.com/citations?user=XvDkA78AAAAJ&hl=en&oi=ao"
-google_analystics_tracking_id: 'G-6PEL9VNHBY'
+profile_tagline: "Large Language Models · Reinforcement Learning · Language Agents"
+short_bio: "Recently, my research has centered on self-evolving and agentic systems: enabling language agents to learn from experience, improve through reinforcement learning, and coordinate reliably across tasks and environments."
+connect_note: "I am always open to new collaborations and discussions. If you would like to discuss potential collaborations, feel free to reach out."
+meta_description: "Ziming You is a Research Associate at NTU CCDS and BREATHE AI Lab, working on self-evolving and agentic systems for language agents."
+analytics_tracking_id: "G-6PEL9VNHBY"
+
+links:
+  - label: "Scholar"
+    url: "https://scholar.google.com/citations?user=XvDkA78AAAAJ&hl=en&oi=ao"
+  - label: "GitHub"
+    url: "https://github.com/zimingyou01"
+  - label: "Twitter"
+    url: "https://twitter.com/ZimingYou01"
+  - label: "CV"
+    url: "/CV_PhD.pdf"
+
+bio:
+  - "I am a Research Associate at <a href=\"https://www.ntu.edu.sg/computing\" target=\"_blank\" rel=\"noreferrer\">NTU College of Computing and Data Science</a> and <a href=\"https://breathelab.ai/\" target=\"_blank\" rel=\"noreferrer\">BREATHE AI Lab</a>. I will start my Ph.D. in Spring 2027, advised by <a href=\"https://dr.ntu.edu.sg/entities/person/Wei-Lu\" target=\"_blank\" rel=\"noreferrer\">Prof. Wei Lu</a>."
+  - "Recently, my research has focused on self-evolving and agentic systems, with an emphasis on how language agents can acquire experience, improve through reinforcement learning, and collaborate robustly across open-ended tasks."

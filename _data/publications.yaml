@@ -1,35 +1,25 @@
 papers:
-
   - title: "Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence"
     authors: "Weize Chen*, <b>Ziming You</b>*, Ran Li*, Yitong Guan*, Chen Qian, Chenyang Zhao, Cheng Yang, Ruobing Xie, Zhiyuan Liu, Maosong Sun"
-    venue: "<b>ICLR 2025</b> <font color=\"red\">(Spotlight, top 5.1%)</font>"
+    venue: "<b>ICLR 2025</b> <span class=\"note-strong\">(Spotlight, top 5.1%)</span>"
     paper_pdf: "https://openreview.net/pdf?id=o1Et3MogPw"
     code: "https://github.com/OpenBMB/IoA"
-    # poster: "https://opencua.xlang.ai/"
     selected: y
 
   - title: "DatawiseAgent: A Notebook-Centric LLM Agent Framework for Adaptive and Robust Data Science Automation"
     authors: "<b>Ziming You</b>, Yumiao Zhang, Dexuan Xu, Yiwei Lou, Yandong Yan, Wei Wang, Huamin Zhang, Yu Huang"
-
     venue: "<b>EMNLP 2025</b> Main Conference"
     paper_pdf: "https://arxiv.org/abs/2503.07044"
     code: "https://github.com/zimingyou01/DatawiseAgent"
-    # poster: "https://osworld-grounding.github.io/"
     selected: y
 
   - title: "Cross-Task Experiential Learning on LLM-based Multi-Agent Collaboration"
     authors: "Yilong Li*, Chen Qian*, Yu Xia, Ruijie Shi, Yufan Dang, Zihao Xie, <b>Ziming You</b>, Weize Chen, Cheng Yang, Liu Weichuan, Ye Tian, Xuantang Xiong, Lei Han, Zhiyuan Liu, Maosong Sun"
-    # venue: "<b>EMNLP 2025</b> Main Conference"
     paper_pdf: "https://arxiv.org/abs/2505.23187"
-    # code: "https://github.com/zimingyou01/DatawiseAgent"
-    # poster: "https://osworld-grounding.github.io/"
     selected: n
 
   - title: "From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones"
     authors: "Lifan Yuan*, Weize Chen*, Yuchen Zhang, Ganqu Cui, Hanbin Wang, <b>Ziming You</b>, Ning Ding, Zhiyuan Liu, Maosong Sun, Hao Peng"
-    # venue: "<b>EMNLP 2025</b> Main Conference"
     paper_pdf: "https://arxiv.org/abs/2505.23187"
     code: "https://github.com/PRIME-RL/RL-Compositionality"
-    # poster: "https://osworld-grounding.github.io/"
     selected: n
-    
