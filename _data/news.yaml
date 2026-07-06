@@ -2,9 +2,6 @@ news:
   - date: "2026.06"
     text: "✨ Started a new chapter as a Research Associate at NTU College of Computing and Data Science and BREATHE AI Lab."
 
-  - date: "2026.06"
-    text: "🎓 Congratulations! I received my M.Eng. in Software Engineering from Peking University."
-
   - date: "2026"
     text: "🌱 I will start my Ph.D. at NTU CCDS in Spring 2027, advised by Prof. Wei Lu."
 
@@ -13,6 +10,9 @@ news:
 
   - date: "2025.11.04"
     text: "🍂 Attended EMNLP 2025 in Suzhou."
+
+  - date: "2025.07"
+    text: "🎓 Congratulations! I received my M.Eng. in Software Engineering from Peking University."
 
   - date: "2025.06"
     text: "📝 DatawiseAgent was accepted to EMNLP 2025 Main Conference."
